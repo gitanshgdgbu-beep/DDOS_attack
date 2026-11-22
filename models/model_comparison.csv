@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Random Forest,99.98%,100.00%,99.97%,99.98%
+XGBoost (Best),99.98%,99.98%,99.99%,99.99%
+Logistic Regression,99.81%,99.77%,99.90%,99.84%
